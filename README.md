@@ -13,7 +13,7 @@
 
 ## *Tugas Akhir*
 
-<img src="" alt="Tugas" style="width: 40%;"/>
+<img src="https://github.com/SatriaDwiA/TUGAS-ANDROID/blob/main/Vidio%20hasil/Screenshot%202024-01-13%20142336.png" alt="Tugas" style="width: 60%;"/>
 
 ### Demo Aplikasi
  
